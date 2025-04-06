@@ -1,0 +1,7 @@
+RELATÓRIO DA IA
+
+Algoritmo: BFS
+Pontuação: 1000
+Passos: 51
+Tempo: 0.79 ms
+Resultado: VITÓRIA
